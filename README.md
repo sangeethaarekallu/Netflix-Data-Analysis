@@ -40,6 +40,6 @@ Analyze Netflix movies and TV shows dataset to identify content trends, genre po
 ## Tools Used
 - Google Colab
 - GitHub
-
+- Excel
 ## Conclusion
 This project helped in understanding Netflix content trends and audience preferences using data analysis and visualization techniques. The analysis provided insights into content distribution, genre popularity, and release growth patterns.
